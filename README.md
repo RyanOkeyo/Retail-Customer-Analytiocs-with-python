@@ -1,1 +1,1 @@
-# Retail-Customer-Analytiocs-with-python
+# Retail-Customer-Analytics-with-python
